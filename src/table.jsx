@@ -55,27 +55,6 @@ var Api=()=>{
     }
 
     
-    // return(
-    //     <>
-        
-    //     <table>
-            
-    //         <tr>
-
-    //             <td>{data[0].id}</td>
-    //             <td>{data[0].title}</td>
-    //             <td>{data[0].price}</td>
-    //             <td>{data[0].description}</td>
-    //             <td>{data[0].category}</td>
-    //             {/* <td>{data[0].image}</td> */}
-    //             <td><img src={data[0].image} alt="hi" width="150"/></td>
-    //             <td>{data[0].rating.rate}</td>
-    //             <td>{data[0].rating.count}</td>
-    //         </tr>
-    //      </table>
-        
-    //         </>
-    // )
 
     )
     

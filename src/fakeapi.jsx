@@ -268,7 +268,7 @@ var Fake=()=>{
     
     return(
         <>
-        <table>
+        <table``>
        {res}
              
         </table>
